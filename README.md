@@ -19,9 +19,11 @@ The data was loaded into the jupyter notebook using SQLAlchemy.
 
 ### Precipitation Analysis
 
-![surfs-up.jpeg](Images/surfs-up.jpeg)
+![precipitation_amounts.png](Output/precipitation_amounts.png)
 
 ### Station Analysis
+
+
 
 * Design a query to calculate the total number of stations.
 
@@ -39,7 +41,7 @@ The data was loaded into the jupyter notebook using SQLAlchemy.
 
   * Plot the results as a histogram with `bins=12`.
 
-- - -
+![precipitation_amounts.png](Output/precipitation_amounts.png)
 
 ## Step 2 - Climate App
 
