@@ -7,6 +7,8 @@ The data was loaded into the jupyter notebook using SQLAlchemy.
 ![surfs-up.jpeg](Images/surfs-up.jpeg)
 
 
+# The analysis will be from 2016-08-23 to 2017-08-23.
+
 ## Climate Analysis and Exploration
 
 
@@ -23,25 +25,12 @@ The data was loaded into the jupyter notebook using SQLAlchemy.
 
 ### Station Analysis
 
+The total number of stations are 9, and the analysis showed that USC00519281 - 
 
 
-* Design a query to calculate the total number of stations.
 
-* Design a query to find the most active stations.
 
-  * List the stations and observation counts in descending order.
-
-  * Which station has the highest number of observations?
-
-  * Hint: You may need to use functions such as `func.min`, `func.max`, `func.avg`, and `func.count` in your queries.
-
-* Design a query to retrieve the last 12 months of temperature observation data (tobs).
-
-  * Filter by the station with the highest number of observations.
-
-  * Plot the results as a histogram with `bins=12`.
-
-![precipitation_amounts.png](Output/precipitation_amounts.png)
+![temperature_results_hist.png](Output/temperature_results_hist.png)
 
 ## Step 2 - Climate App
 
