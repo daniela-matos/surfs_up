@@ -26,10 +26,10 @@ The minimum temperature at station USC00519281 is 54.0°F, the maximun is 85.0°
 
 The temperature for a trip from 2017-03-23 to 2017-04-02 was low  60°F and high 88°F while the average predicted temperatures stay in the mid 70's.
 
-  ![trip_avg_temperature.png](Output/trip_abg_temp.png)
+![daily-normals](Output/trip_temperature_results_area.png)
   
-  
-  ![daily-normals](Output/trip_temperature_results_area.png)
+![trip_avg_temperature.png](Output/trip_abg_temp.png)
+
 
 
 
