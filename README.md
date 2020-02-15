@@ -8,7 +8,8 @@ The data was loaded into the jupyter notebook using SQLAlchemy.
 
 ## Climate Analysis and Exploration
 
-
+The station USC00519281 has the highest number of observations.
+The minimum temperature at station USC00519281 is 54.0, the maximun is 85.0 and the average is 71.66378066378067.
 
 * Choose a start date and end date for your trip. Make sure that your vacation range is approximately 3-15 days total.
 
