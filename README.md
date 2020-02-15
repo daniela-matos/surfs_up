@@ -28,7 +28,7 @@ The temperature for a trip from 2017-03-23 to 2017-04-02 was low  60°F and high
 
 ![daily-normals](Output/trip_temperature_results_area.png)
   
-![trip_avg_temperature.png](Output/trip_abg_temp.png)
+![trip_avg_temperature.png](Output/trip_avg_temp.png)
 
 
 
